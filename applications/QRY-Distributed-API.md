@@ -155,7 +155,7 @@ Hyperion recent versions already include a Health API that checks its own infras
 | ----- | ----------- | ------------- |
 | 0a. | License  | MIT |
 | 0b. | Documentation  | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how operators can turn on the feature and how to connect to Hyperion Hub. |
-| 0c. | Testing Guide        | In-depth testing to ensure compatibility with Hyperion and robustness of the data client. |
+| 0c. | Testing Guide        | Unit tests covering the core functionalities and a detailed guide on runnning the tests. |
 | 0e. | Article              | We will publish at least one **article** and participate in AMAs and other channels to explain the MVP and the future developments to collect feedback from developers. Our target audience will be blockchain engineers and entrepreneurs especially on the Antelope Ecosystem. We will mention the ENF support whenever possible. |
 | 1. | Operator Client v0| Hyperion feature to communicate data availability, latency and performance indicators. |
 | 2. | QRY Hub              | Receive and aggregate endpoint information. |
@@ -173,7 +173,7 @@ Hyperion recent versions already include a Health API that checks its own infras
 | ----- | ----------- | ------------- |
 | 0a. | License | MIT |
 | 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how to use the SDK and the Data Client.  |
-| 0c. | Testing Guide | In-depth testing to ensure compatibility with Hyperion and robustness on the developer side. |
+| 0c. | Testing Guide | Unit tests covering the core functionalities and a detailed guide on runnning the tests. |
 | 0d. | Docker | A docker image will be provided allowing for easy deployment of the SDK Connector Microservice.    |
 | 0e. | Article | We will publish at least one **article** and participate in AMAs and other channels to promote and explain the SDK. Our target audience will be blockchain engineers and entrepreneurs especially on the Antelope Ecosystem. We will mention the ENF support whenever possible. |
 | 1. | Interface Specification | Define how developers will be able to call queries from inside JavaScript/TypeScript.  |
@@ -192,7 +192,7 @@ Hyperion recent versions already include a Health API that checks its own infras
 | ----- | ----------- | ------------- |
 | 0a. | License | MIT |
 | 0b. | Documentation | We will focus on intuitive flows and timely explanations on tooltips. |
-| 0c. | Testing Guide | In-depth testing to ensure compatibility with SDKs, data clients and data providers.|
+| 0c. | Testing Guide |  Unit tests covering the core functionalities and a detailed guide on runnning the tests. |
 | 0d. | Docker | A docker image will be provided allowing for easy deployment of local and web interfaces.|
 | 0e. | Article | We will publish at least one **article** and participate in AMAs and other channels to promote the Web Interface. Our target audience will be blockchain engineers and entrepreneurs especially on the Antelope Ecosystem. We will mention the ENF support whenever possible. |
 | 1. | UX/UI | A clean and intuitive design allowing developers to easily use the tools to access blockchain information. |
@@ -211,7 +211,7 @@ Hyperion recent versions already include a Health API that checks its own infras
 | ----- | ----------- | ------------- |
 | 0a. | License | MIT |
 | 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how operators will enable it. |
-| 0c. | Testing Guide | In-depth testing to ensure compatibility with Hyperion, blockchain interaction and client handling.  |
+| 0c. | Testing Guide | Unit tests covering the core functionalities and a detailed guide on runnning the tests. |
 | 0e. | Article | We will publish at least one **article** and participate in AMAs focused on infrastructure operators. Our target audience will be blockchain operators on the Antelope Ecosystem. We will mention the ENF support whenever possible. |
 | 1. | Key validation module | We will create a module to validate client signature and verify subscription status and usage. |
 | 2. | Healthcheck and internal information | Improving upon Hyperion Healthcheck as a reference implementation |
@@ -230,7 +230,7 @@ Hyperion recent versions already include a Health API that checks its own infras
 | ----- | ----------- | ------------- |
 | 0a. | License | MIT |
 | 0b. | Documentation | We will provide **inline documentation** of the code that explains the contract and components interaction. |
-| 0c. | Testing Guide | In-depth testing to ensure security, including a formal contract review by a recognized auditing provider. |
+| 0c. | Testing Guide |  Unit tests covering the core functionalities and a formal contract review by a recognized auditing provider. |
 | 0e. | Article | We will publish at least one **article** and participate in AMAs and other channels to explain smart contracts and the project as a whole. Our target audience will be blockchain engineers and entrepreneurs especially on the Antelope Ecosystem. We will mention the ENF support whenever possible. |
 | 1. | Ricardian Contracts | Contract specification with intent of code for each call.  |
 | 2. | Registering actors | Create all the functions for registering actors in the contract.  |
