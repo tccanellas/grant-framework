@@ -8,7 +8,7 @@
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** https://github.com/eosrio/qry
-  - [Hyperion's repository](https://github.com/eosrio/hyperion-history-api) is where most of the QRY related code is, but QRY will have a specific repository. Most of the current development is still private as it lacks organization and fomarlization.
+  - [Hyperion's repository](https://github.com/eosrio/hyperion-history-api) is where most of the QRY related code is, but QRY will have a specific repository. Code for the QRY Hub and other are still private as it lacks organization and formalization.
 
 ## Contact
 
