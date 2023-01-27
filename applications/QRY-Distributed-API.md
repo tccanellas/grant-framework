@@ -169,7 +169,8 @@ Hyperion recent versions already include a Health API that checks its own infras
 - **FTE:**  3.10
 - **Costs:** 61,740 USD
 
-| ID | Deliverable | Specification                                                                                                                                                                                                                                                                   | ----- | ----------- | ------------- |
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
 | 0a. | License | MIT |
 | 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how to use the SDK and the Data Client.  |
 | 0c. | Testing Guide | In-depth testing to ensure compatibility with Hyperion and robustness on the developer side. |
