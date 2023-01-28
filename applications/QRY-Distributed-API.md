@@ -28,7 +28,7 @@ The present proposal addresses the issue of unreliable API infrastructure, point
 
 ### Project Details
 
-Developers working on decentralized applications must access state and historical information on the Blockchain, as well as to push transactions to the network. The current options for developers on EOS to interact with the chain are:
+Developers working on decentralized applications must access state and historical information on the Blockchain, as well as push transactions to the network. The current options for developers on EOS to interact with the chain are:
 1. To run their own nodes and infrastructure connecting to the blockchain, which has a significant operational cost, especially for historical information;
 2. Use unreliable but free community maintained endpoints;
 3. Or pay steep prices for privately managed instances or services with SLA.
